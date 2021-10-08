@@ -1,4 +1,4 @@
-package Graphs;
+package CP_Implementations.Graphs;
 
 import java.util.*;
 import java.io.*;

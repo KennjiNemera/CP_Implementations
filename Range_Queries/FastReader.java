@@ -1,4 +1,4 @@
-package Range_Queries;
+package CP_Implementations.Range_Queries;
 
 import java.util.*;
 import java.io.*;
